@@ -49,3 +49,8 @@ function createNewNote(body, notesArray) {
             res.json(newNote);
         });
         
+        function deleteNote(id, notesArray) {
+            for (let i = 0; i < notesArray.length; i++) {
+                let note = notesArray[i];
+
+                
