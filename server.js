@@ -10,3 +10,7 @@ const allNotes = require('./db/db.json');
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
+
+app.get('/api/notes', (req, res) => {
+    res.json(allNotes.slice(1));
+});
