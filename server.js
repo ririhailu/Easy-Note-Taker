@@ -28,3 +28,6 @@ function createNewNote(body, notesArray) {
     const newNote = body;
     if (!Array.isArray(notesArray))
         notesArray = [];
+
+        if (notesArray.length === 0)
+        notesArray.push(0);
