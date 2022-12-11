@@ -40,3 +40,4 @@ function createNewNote(body, notesArray) {
             path.join(__dirname, './db/db.json'),
             JSON.stringify(notesArray, null, 2)
         );
+        return newNote;
