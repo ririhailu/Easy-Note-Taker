@@ -41,3 +41,11 @@ function createNewNote(body, notesArray) {
             JSON.stringify(notesArray, null, 2)
         );
         return newNote;
+
+        }
+        
+        app.post('/api/notes', (req, res) => {
+            const newNote = createNewNote(req.body, allNotes);
+            res.json(newNote);
+        });
+        
