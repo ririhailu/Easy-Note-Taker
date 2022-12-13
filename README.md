@@ -1,6 +1,13 @@
 # Easy-Note-Taker
 
+
+![screenshot](./assets/Screenshot33.png)
+
+
+
+
 ## Description
+
 
 The purpose of this assignment is to create an application called Note Taker that can be used to write and save notes. The app uses an Express.js back end and will save and retrieve user generated note data from a JSON file.
 
@@ -12,9 +19,21 @@ The application’s front end has already been created. It's my job to build the
 The Easy-Note-Taker was initially created in repository in GitHub. The repository was cloned into local desktop. All changes were added, committed, and pushed to repository.  
 
 
+
+## Video Link
+This link is walkthrough for this application. 
+
+https://drive.google.com/file/d/1fLSuLgRQ4Pdy5KrG9ygVQ1tI7dyofU9P/view
+
+
+## Heroku Link
+
+
+
+
 ## Credits
 
-I would like to thank Mesh B. for assisting me with this project. 
+I would like to thank Jacob Nordan and Mesh B. for assisting me with this project. 
 
 
 ## License
@@ -41,8 +60,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Review  
+## Review     
 
-* herock site ************     
-
-* https://github.com/ririhailu/check-your-weather-forecast    
+* https://github.com/ririhailu/Easy-Note-Taker  
