@@ -1,7 +1,8 @@
 # Easy-Note-Taker
 
 
-![screenshot](./assets/Screenshot33.png)
+
+![screenshot](./assets/Screenshot444.png)
 
 
 
