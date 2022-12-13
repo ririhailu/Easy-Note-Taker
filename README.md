@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1fLSuLgRQ4Pdy5KrG9ygVQ1tI7dyofU9P/view
 
 ## Heroku Link
 
-
+https://dashboard.heroku.com/apps/rahel-12345 
 
 
 ## Credits
@@ -40,7 +40,7 @@ I would like to thank Jacob Nordan and Mesh B. for assisting me with this projec
 
 MIT License
 
-Copyright (c) [] [rirhailu]
+Copyright (c) [2022] [rirhailu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
